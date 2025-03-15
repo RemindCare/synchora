@@ -30,7 +30,7 @@ const Navbar: React.FC = () => {
       <div className="container max-w-7xl mx-auto px-4 md:px-6 flex items-center justify-between">
         <a href="/" className="flex items-center space-x-2">
           <span className="text-2xl font-semibold bg-gradient-to-r from-health-700 to-health-500 bg-clip-text text-transparent">
-            MediSync
+            SynchoraHealth
           </span>
         </a>
 

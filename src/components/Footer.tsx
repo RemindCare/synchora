@@ -9,7 +9,7 @@ const Footer: React.FC = () => {
           <div className="col-span-1 md:col-span-1">
             <a href="/" className="inline-block mb-6">
               <span className="text-2xl font-semibold bg-gradient-to-r from-health-700 to-health-500 bg-clip-text text-transparent">
-                MediSync
+                SynchoraHealth
               </span>
             </a>
             <p className="text-gray-600 mb-6">
@@ -137,7 +137,7 @@ const Footer: React.FC = () => {
         <div className="border-t border-gray-100 mt-12 pt-8">
           <div className="flex flex-col md:flex-row justify-between items-center">
             <p className="text-gray-500 text-sm">
-              &copy; {new Date().getFullYear()} MediSync. All rights reserved.
+              &copy; {new Date().getFullYear()} SynchoraHealth. All rights reserved.
             </p>
             <div className="mt-4 md:mt-0">
               <a

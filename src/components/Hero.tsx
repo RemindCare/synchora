@@ -46,10 +46,22 @@ const Hero: React.FC = () => {
               <div className="pt-6">
                 <p className="text-sm text-gray-500 mb-4">Trusted by leading healthcare providers</p>
                 <div className="flex flex-wrap gap-6 items-center">
-                  {/* Logos would go here - using gray placeholders */}
-                  <div className="h-8 w-24 bg-gray-200 rounded opacity-70"></div>
-                  <div className="h-8 w-28 bg-gray-200 rounded opacity-70"></div>
-                  <div className="h-8 w-20 bg-gray-200 rounded opacity-70"></div>
+                  {/* Hospital logos */}
+                  <img 
+                    src="/lovable-uploads/f31d6c18-387b-4866-96d8-eb8c16bb3959.png" 
+                    alt="KATH" 
+                    className="h-12 object-contain"
+                  />
+                  <img 
+                    src="/lovable-uploads/de22656c-462c-4b9e-a126-819a8fb8a4a9.png" 
+                    alt="KBTH" 
+                    className="h-12 object-contain"
+                  />
+                  <img 
+                    src="/lovable-uploads/0ad850dd-d43d-4cef-8432-cceb17af577d.png" 
+                    alt="UGMC" 
+                    className="h-12 object-contain"
+                  />
                 </div>
               </div>
             </FadeIn>
