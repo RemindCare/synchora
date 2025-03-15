@@ -118,7 +118,6 @@ const Footer: React.FC = () => {
                 "Privacy Policy",
                 "Terms of Service",
                 "Cookie Policy",
-                "HIPAA Compliance",
                 "Security",
               ].map((item, index) => (
                 <li key={index}>

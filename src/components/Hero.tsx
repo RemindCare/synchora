@@ -90,7 +90,7 @@ const Hero: React.FC = () => {
                     </div>
                     <div>
                       <h5 className="font-medium text-gray-900">Appointment Reminder</h5>
-                      <p className="text-sm text-gray-600">Dr. Sarah Miller, Cardiology</p>
+                      <p className="text-sm text-gray-600">Korle Bu Teaching Hospital, Diabetes Clinic</p>
                     </div>
                   </div>
                   <p className="text-sm text-gray-600 ml-11">

@@ -31,7 +31,7 @@ const CallToAction: React.FC = () => {
           {[
             {
               name: "Starter",
-              price: "$99",
+              price: "₵600",
               description: "Perfect for small practices",
               features: [
                 "Up to 200 patients",
@@ -44,7 +44,7 @@ const CallToAction: React.FC = () => {
             },
             {
               name: "Professional",
-              price: "$249",
+              price: "₵1,500",
               description: "Ideal for growing practices",
               features: [
                 "Up to 1,000 patients",
